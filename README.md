@@ -44,7 +44,7 @@ We provide four Urdu GLUE benchmark datasets covering grammaticality judgment, s
 
 All methods are implemented for both mBERT and XLM-RoBERTa.
 
-ADAPT (Adaptive Dynamic Template Training) is a prompt-based fine-tuning strategy for masked language models that mitigates sensitivity to template selection by treating templates as stochastic training variables and incorporating multiple candidate templates during training.
+ADAPT (Adaptive Dynamic Prompt Template) is a prompt-based fine-tuning strategy for masked language models that mitigates sensitivity to template selection by treating templates as stochastic training variables and incorporating multiple candidate templates during training.
 
 ## 3. Purpose
 - Enable Urdu NLP benchmarking using GLUE-style tasks
